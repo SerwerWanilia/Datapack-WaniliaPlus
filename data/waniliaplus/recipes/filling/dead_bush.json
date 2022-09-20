@@ -1,0 +1,21 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "minecraft:saplings"
+    },
+    {
+      "fluid": "create:potion",
+      "nbt": {
+        "Bottle": "REGULAR",
+        "Potion": "minecraft:harming"
+      },
+      "amount": 125
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:dead_bush"
+    }
+  ]
+}

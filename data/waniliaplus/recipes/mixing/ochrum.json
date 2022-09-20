@@ -1,0 +1,16 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:cobblestone"
+    },
+	{
+      "item": "create:crushed_gold_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:ochrum"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "fluid": "create:potion",
+      "nbt": {
+        "Bottle": "REGULAR",
+        "Potion": "minecraft:healing"
+      },
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "savage_and_ravage:creeper_spores"
+    }
+  ]
+}

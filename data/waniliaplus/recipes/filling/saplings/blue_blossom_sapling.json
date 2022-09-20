@@ -1,0 +1,22 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "quark:blue_blossom_sapling"
+    },
+    {
+      "fluid": "create:potion",
+      "nbt": {
+        "Bottle": "REGULAR",
+        "Potion": "minecraft:healing"
+      },
+      "amount": 125
+    }
+  ],
+  "results": [
+    {
+      "item": "quark:blue_blossom_sapling",
+	  "count": 2
+    }
+  ]
+}

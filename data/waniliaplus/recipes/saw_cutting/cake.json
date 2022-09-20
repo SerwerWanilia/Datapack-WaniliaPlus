@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:cake"
+    }
+  ],
+  "results": [
+    {
+      "item": "farmersdelight:cake_slice",
+      "count": 7
+    }
+  ],
+  "processingTime": 30
+}

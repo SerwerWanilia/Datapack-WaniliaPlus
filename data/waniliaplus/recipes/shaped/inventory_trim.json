@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"m  ",
+    "s  ",
+    "m  "
+  ],
+  "key": {
+    "m": {
+      "item": "toms_storage:ts.inventory_cable"
+    },
+    "s": {
+      "item": "toms_storage:ts.inventory_connector"
+    }
+  },
+  "result": {
+    "item": "toms_storage:ts.trim"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	" e ",
+    "msf",
+    " p "
+  ],
+  "key": {
+  	"p": {
+      "item": "minecraft:comparator"
+    },
+  	"f": {
+      "item": "create:andesite_funnel"
+    },
+    "e": {
+      "item": "create:electron_tube"
+    },
+    "m": {
+      "item": "toms_storage:ts.inventory_cable"
+    },
+    "s": {
+      "item": "create:andesite_casing"
+    }
+  },
+  "result": {
+    "item": "toms_storage:ts.inventory_cable_connector"
+  }
+}

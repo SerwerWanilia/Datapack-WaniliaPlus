@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	" e ",
+    "msm",
+    " p "
+  ],
+  "key": {
+  	"p": {
+      "item": "create:andesite_funnel"
+    },
+    "e": {
+      "item": "create:electron_tube"
+    },
+    "m": {
+      "item": "create:filter"
+    },
+    "s": {
+      "item": "create:andesite_casing"
+    }
+  },
+  "result": {
+    "item": "toms_storage:ts.storage_terminal"
+  }
+}

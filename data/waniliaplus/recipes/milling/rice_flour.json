@@ -1,0 +1,14 @@
+{
+	"type": "create:milling",
+    "ingredients": [
+    	{
+    		"item": "farmersdelight:rice"
+    	}
+    ],
+	"results": [
+		{
+			"item": "create:wheat_flour"
+		}
+	],
+	"processingTime": 30
+}

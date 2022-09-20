@@ -1,0 +1,376 @@
+{
+	"type": "minecraft:generic",
+	"pools": [{
+		"rolls": {
+			"min": 1,
+			"max": 5
+		},
+		"entries": [{
+				"type": "minecraft:item",
+				"weight": 4,
+				"name": "minecraft:prismarine_crystals"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 4,
+				"name": "minecraft:amethyst_shard"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 5,
+				"name": "minecraft:coal"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 5,
+				"name": "minecraft:iron_ingot"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 4,
+				"name": "minecraft:copper_ingot"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 4,
+				"name": "create:zinc_ingot"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 4,
+				"quality": 1,
+				"name": "minecraft:gold_ingot"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 1,
+				"quality": 1,
+				"name": "minecraft:emerald"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 1,
+				"quality": 1,
+				"name": "minecraft:diamond"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 5,
+				"name": "minecraft:rotten_flesh"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 5,
+				"name": "additionaladditions:glow_stick"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 5,
+				"name": "supplementaries:soap"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 5,
+				"name": "supplementaries:rope"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 5,
+				"name": "minecraft:gunpowder"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 5,
+				"name": "minecraft:bone"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 5,
+				"name": "minecraft:string"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 5,
+				"name": "minecraft:ender_pearl"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 4,
+				"name": "minecraft:slime_ball"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 1,
+				"quality": 1,
+				"name": "alexsmobs:shed_snake_skin"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 1,
+				"quality": 1,
+				"name": "alexsmobs:moose_antler"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 1,
+				"quality": 1,
+				"name": "alexsmobs:rocky_shell"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 1,
+				"quality": 1,
+				"name": "alexsmobs:lost_tentacle"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 1,
+				"quality": 1,
+				"name": "alexsmobs:ambergris"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 3,
+				"quality": 1,
+				"name": "alexsmobs:roadrunner_feather"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 3,
+				"quality": 1,
+				"name": "alexsmobs:bear_fur"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 2,
+				"quality": 1,
+				"name": "alexsmobs:tarantula_hawk_wing_fragment"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 2,
+				"quality": 1,
+				"name": "alexsmobs:spiked_scute"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 3,
+				"quality": 1,
+				"name": "minecraft:scute"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 2,
+				"quality": 1,
+				"name": "minecraft:experience_bottle"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 2,
+				"name": "minecraft:saddle"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 2,
+				"name": "minecraft:lead"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 1,
+				"name": "minecraft:spyglass"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 1,
+				"name": "minecraft:flint_and_steel"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 1,
+				"name": "supplementaries:flute"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 1,
+				"name": "quark:bottled_cloud"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 2,
+				"name": "minecraft:compass"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 2,
+				"name": "minecraft:clock"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 3,
+				"name": "minecraft:name_tag"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 2,
+				"name": "domesticationinnovation:collar_tag"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 4,
+				"name": "minecraft:cake"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 4,
+				"name": "create_confectionery:bar_of_caramel"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 3,
+				"name": "create_confectionery:bar_of_black_chocolate"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 3,
+				"name": "create_confectionery:bar_of_ruby_chocolate"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 3,
+				"name": "create_confectionery:bar_of_white_chocolate"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 4,
+				"name": "create:bar_of_chocolate"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 4,
+				"name": "create_confectionery:gingerbread_man"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 4,
+				"name": "create_confectionery:candy_cane"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 3,
+				"name": "minecraft:suspicious_stew"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 4,
+				"name": "supplementaries:candy"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 1,
+				"quality": 1,
+				"name": "minecraft:golden_apple"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 1,
+				"quality": 1,
+				"name": "buddycards:buddycard_pack_base"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 1,
+				"quality": 1,
+				"name": "buddycards:buddycard_pack_end"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 1,
+				"quality": 1,
+				"name": "buddycards:buddycard_pack_nether"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 1,
+				"quality": 1,
+				"name": "buddycardsexp:buddycard_pack_create"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 1,
+				"quality": 1,
+				"name": "buddycardsexp:buddycard_pack_farmers"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 1,
+				"quality": 1,
+				"name": "additionaladditions:trident_shard"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 1,
+				"quality": 1,
+				"name": "domesticationinnovation:sinister_carrot"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 1,
+				"quality": 1,
+				"name": "domesticationinnovation:deed_of_ownership"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 1,
+				"quality": 1,
+				"name": "domesticationinnovation:rotten_apple"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 1,
+				"quality": 1,
+				"name": "minecraft:book",
+				"functions": [{
+					"function": "minecraft:set_enchantments",
+					"enchantments": {
+						"domesticationinnovation:bubbling": 1
+					}
+				}]
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 1,
+				"quality": 1,
+				"name": "minecraft:book",
+				"functions": [{
+					"function": "minecraft:set_enchantments",
+					"enchantments": {
+						"domesticationinnovation:ore_scenting": 1
+					}
+				}]
+			}, {
+				"type": "minecraft:item",
+				"weight": 1,
+				"quality": 1,
+				"name": "minecraft:book",
+				"functions": [{
+					"function": "minecraft:set_enchantments",
+					"enchantments": {
+						"domesticationinnovation:vampire": 1
+					}
+				}]
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 1,
+				"quality": 1,
+				"name": "minecraft:heart_of_the_sea"
+			},
+			{
+				"type": "minecraft:item",
+				"weight": 1,
+				"quality": 1,
+				"name": "minecraft:nautilus_shell"
+			}
+		]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "culturaldelights:wild_eggplants"
+    }
+  ],
+  "results": [
+    {
+      "item": "culturaldelights:white_eggplant"
+    },
+    {
+      "item": "culturaldelights:eggplant_seeds"
+    },
+    {
+      "item": "minecraft:light_gray_dye",
+      "chance": 0.5
+    }
+  ],
+  "processingTime": 30
+}

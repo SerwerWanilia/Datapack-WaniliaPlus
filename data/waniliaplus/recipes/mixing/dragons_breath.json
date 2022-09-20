@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:chorus_fruit"
+    },
+	{
+      "item": "create:experience_nugget"
+    },
+	{
+      "item": "minecraft:glass_bottle"
+    },
+	{
+      "fluid": "create:potion",
+      "nbt": {
+        "Bottle": "REGULAR",
+        "Potion": "minecraft:mundane"
+      },
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:dragon_breath"
+    }
+  ],
+  "heatRequirement": "superheated"
+}

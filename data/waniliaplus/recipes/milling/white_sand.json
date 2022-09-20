@@ -1,0 +1,14 @@
+{
+	"type": "create:milling",
+    "ingredients": [
+    	{
+    		"item": "minecraft:diorite"
+    	}
+    ],
+	"results": [
+		{
+			"item": "biomesoplenty:white_sand"
+		}
+	],
+	"processingTime": 50
+}

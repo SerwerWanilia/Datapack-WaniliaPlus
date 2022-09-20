@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "create:zinc_nugget"
+    },
+    {
+      "item": "calemieconomy:coin_copper"
+    },
+    {
+      "item": "calemieconomy:coin_copper"
+    },
+    {
+      "item": "calemieconomy:coin_copper"
+    },
+    {
+      "item": "calemieconomy:coin_copper"
+    },
+    {
+      "item": "calemieconomy:coin_copper"
+    },
+    {
+      "item": "calemieconomy:coin_copper"
+    },
+    {
+      "item": "calemieconomy:coin_copper"
+    },
+    {
+      "item": "calemieconomy:coin_copper"
+    }
+  ],
+  "result": {
+    "item": "createdeco:zinc_coin",
+    "count": 8
+  }
+}

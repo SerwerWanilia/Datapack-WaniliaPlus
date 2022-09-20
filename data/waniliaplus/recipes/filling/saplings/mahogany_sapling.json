@@ -1,0 +1,22 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:mahogany_sapling"
+    },
+    {
+      "fluid": "create:potion",
+      "nbt": {
+        "Bottle": "REGULAR",
+        "Potion": "minecraft:healing"
+      },
+      "amount": 125
+    }
+  ],
+  "results": [
+    {
+      "item": "biomesoplenty:mahogany_sapling",
+	  "count": 2
+    }
+  ]
+}

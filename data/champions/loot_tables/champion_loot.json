@@ -1,0 +1,193 @@
+{
+	"pools": [{
+			"name": "tier#1",
+			"rolls": 1,
+			"entries": [{
+				"type": "loot_table",
+				"name": "supplementaries:blocks/urn_loot/urn_loot",
+				"weight": 1,
+				"conditions": [{
+						"condition": "champions:champion_properties",
+						"entity": "this"
+					},
+					{
+						"condition": "killed_by_player"
+					}
+				]
+			}]
+		},
+		{
+			"name": "tier#2",
+			"rolls": 1,
+			"entries": [{
+				"type": "item",
+				"name": "minecraft:book",
+				"weight": 1,
+				"conditions": [{
+						"condition": "champions:champion_properties",
+						"entity": "this",
+						"tier": {
+							"min": 2
+						}
+					},
+					{
+						"condition": "killed_by_player"
+					}
+				],
+				"functions": [{
+					"function": "enchant_randomly"
+				}]
+			}]
+		},
+		{
+			"name": "tier#3",
+			"rolls": 1,
+			"entries": [{
+				"type": "item",
+				"name": "additionaladditions:mysterious_bundle",
+				"weight": 1,
+				"conditions": [{
+						"condition": "champions:champion_properties",
+						"entity": "this",
+						"tier": {
+							"min": 3
+						}
+					},
+					{
+						"condition": "killed_by_player"
+					}
+				]
+			}]
+		},
+		{
+			"name": "tier#4",
+			"rolls": 1,
+			"entries": [{
+					"type": "item",
+					"name": "buddycards:buddycard_pack_base",
+					"weight": 1,
+					"conditions": [{
+							"condition": "champions:champion_properties",
+							"entity": "this",
+							"tier": {
+								"min": 4
+							}
+						},
+						{
+							"condition": "killed_by_player"
+						},
+						{
+							"condition": "minecraft:entity_properties",
+							"entity": "this",
+							"predicate": {
+								"location": {
+									"dimension": "minecraft:overworld"
+								}
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "buddycards:buddycard_pack_end",
+					"weight": 1,
+					"conditions": [{
+							"condition": "champions:champion_properties",
+							"entity": "this",
+							"tier": {
+								"min": 4
+							}
+						},
+						{
+							"condition": "killed_by_player"
+						},
+						{
+							"condition": "minecraft:entity_properties",
+							"entity": "this",
+							"predicate": {
+								"location": {
+									"dimension": "minecraft:the_end"
+								}
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "buddycards:buddycard_pack_nether",
+					"weight": 100,
+					"conditions": [{
+							"condition": "champions:champion_properties",
+							"entity": "this",
+							"tier": {
+								"min": 4
+							}
+						},
+						{
+							"condition": "killed_by_player"
+						},
+						{
+							"condition": "minecraft:entity_properties",
+							"entity": "this",
+							"predicate": {
+								"location": {
+									"dimension": "minecraft:the_nether"
+								}
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "buddycardsexp:buddycard_pack_create",
+					"weight": 1,
+					"conditions": [{
+							"condition": "champions:champion_properties",
+							"entity": "this",
+							"tier": {
+								"min": 4
+							}
+						},
+						{
+							"condition": "killed_by_player"
+						},
+						{
+							"condition": "minecraft:entity_properties",
+							"entity": "this",
+							"predicate": {
+								"location": {
+									"dimension": "minecraft:overworld"
+								}
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "buddycardsexp:buddycard_pack_farmers",
+					"weight": 1,
+					"conditions": [{
+							"condition": "champions:champion_properties",
+							"entity": "this",
+							"tier": {
+								"min": 4
+							}
+						},
+						{
+							"condition": "killed_by_player"
+						},
+						{
+							"condition": "minecraft:entity_properties",
+							"entity": "this",
+							"predicate": {
+								"location": {
+									"dimension": "minecraft:overworld"
+								}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

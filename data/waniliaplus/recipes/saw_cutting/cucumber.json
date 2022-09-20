@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "culturaldelights:cucumber"
+    }
+  ],
+  "results": [
+    {
+      "item": "culturaldelights:cut_cucumber",
+      "count": 2
+    }
+  ],
+  "processingTime": 30
+}

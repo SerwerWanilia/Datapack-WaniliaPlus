@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "QQQ",
+    "QCQ",
+    "QQQ"
+  ],
+  "key": {
+    "Q": {
+      "item": "minecraft:quartz"
+    },
+    "C": [
+      {
+        "item": "minecraft:allium"
+      },
+      {
+        "item": "minecraft:pink_tulip"
+      },
+      {
+        "item": "minecraft:lilac"
+      },
+      {
+        "item": "minecraft:peony"
+      },
+      {
+        "item": "biomesoplenty:lavender"
+      }
+    ]
+  },
+  "result": {
+    "item": "botania:quartz_lavender",
+    "count": 8
+  }
+}

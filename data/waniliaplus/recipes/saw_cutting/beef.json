@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:beef"
+    }
+  ],
+  "results": [
+    {
+      "item": "farmersdelight:minced_beef",
+      "count": 2
+    }
+  ],
+  "processingTime": 30
+}

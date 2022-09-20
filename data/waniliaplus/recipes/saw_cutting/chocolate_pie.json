@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "farmersdelight:chocolate_pie"
+    }
+  ],
+  "results": [
+    {
+      "item": "farmersdelight:chocolate_pie_slice",
+      "count": 4
+    }
+  ],
+  "processingTime": 30
+}

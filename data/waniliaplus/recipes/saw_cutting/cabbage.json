@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "farmersdelight:cabbage"
+    }
+  ],
+  "results": [
+    {
+      "item": "farmersdelight:cabbage_leaf",
+      "count": 2
+    }
+  ],
+  "processingTime": 30
+}

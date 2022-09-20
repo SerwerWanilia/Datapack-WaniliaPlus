@@ -1,0 +1,19 @@
+{
+	"type": "create:milling",
+    "ingredients": [
+    	{
+    		"item": "goblinsanddungeons:scoria"
+    	}
+    ],
+	"results": [
+		{
+			"item": "minecraft:cobbled_deepslate",
+			"chance": 0.75
+		},
+		{
+			"item": "minecraft:smooth_basalt",
+			"chance": 0.25
+		}
+	],
+	"processingTime": 50
+}

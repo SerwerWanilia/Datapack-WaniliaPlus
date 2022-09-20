@@ -1,0 +1,18 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "culturaldelights:wild_corn"
+    }
+  ],
+  "results": [
+    {
+      "item": "culturaldelights:corn_kernels"
+    },
+    {
+      "item": "culturaldelights:corn_kernels",
+      "chance": 0.5
+    }
+  ],
+  "processingTime": 30
+}

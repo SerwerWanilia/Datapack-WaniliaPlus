@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "create:copper_nugget"
+    },
+    {
+      "item": "calemieconomy:coin_copper"
+    },
+    {
+      "item": "calemieconomy:coin_copper"
+    },
+    {
+      "item": "calemieconomy:coin_copper"
+    },
+    {
+      "item": "calemieconomy:coin_copper"
+    },
+    {
+      "item": "calemieconomy:coin_copper"
+    },
+    {
+      "item": "calemieconomy:coin_copper"
+    },
+    {
+      "item": "calemieconomy:coin_copper"
+    },
+    {
+      "item": "calemieconomy:coin_copper"
+    }
+  ],
+  "result": {
+    "item": "createdeco:copper_coin",
+    "count": 8
+  }
+}

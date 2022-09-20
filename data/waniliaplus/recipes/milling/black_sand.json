@@ -1,0 +1,19 @@
+{
+	"type": "create:crushing",
+    "ingredients": [
+    	{
+    		"item": "minecraft:blackstone"
+    	}
+    ],
+	"results": [
+		{
+			"item": "biomesoplenty:black_sand"
+		},
+		{
+			"item": "minecraft:black_dye",
+			"count": 1,
+			"chance": 0.1
+		}
+	],
+	"processingTime": 50
+}

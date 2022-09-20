@@ -1,0 +1,18 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "culturaldelights:avocado"
+    }
+  ],
+  "results": [
+    {
+      "item": "culturaldelights:cut_avocado",
+      "count": 2
+    },
+	{
+	  "item": "culturaldelights:avocado_pit"
+	}
+  ],
+  "processingTime": 30
+}

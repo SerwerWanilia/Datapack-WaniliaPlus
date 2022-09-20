@@ -1,0 +1,22 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "culturaldelights:avocado_sapling"
+    },
+    {
+      "fluid": "create:potion",
+      "nbt": {
+        "Bottle": "REGULAR",
+        "Potion": "minecraft:healing"
+      },
+      "amount": 125
+    }
+  ],
+  "results": [
+    {
+      "item": "culturaldelights:avocado_sapling",
+	  "count": 2
+    }
+  ]
+}

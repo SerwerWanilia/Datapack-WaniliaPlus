@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "culturaldelights:tortilla"
+    }
+  ],
+  "results": [
+    {
+      "item": "culturaldelights:tortilla_chips",
+      "count": 3
+    }
+  ],
+  "processingTime": 30
+}

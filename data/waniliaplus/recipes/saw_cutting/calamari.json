@@ -1,0 +1,20 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "culturaldelights:squid"
+    }
+  ],
+  "results": [
+    {
+      "item": "culturaldelights:raw_calamari",
+      "count": 2
+    },
+    {
+      "item": "minecraft:ink_sac",
+      "count": 3,
+      "chance": 0.5
+    }
+  ],
+  "processingTime": 30
+}

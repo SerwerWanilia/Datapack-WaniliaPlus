@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:nether_star",
+    "minecraft:netherite_scrap",
+    "farmersdelight:tree_bark",
+    "farmersdelight:onion"
+  ]
+}

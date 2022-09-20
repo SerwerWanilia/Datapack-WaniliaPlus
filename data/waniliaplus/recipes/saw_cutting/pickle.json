@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "culturaldelights:pickle"
+    }
+  ],
+  "results": [
+    {
+      "item": "culturaldelights:cut_pickle",
+      "count": 2
+    }
+  ],
+  "processingTime": 30
+}

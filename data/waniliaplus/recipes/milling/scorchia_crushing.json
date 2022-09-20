@@ -1,0 +1,23 @@
+{
+	"type": "create:milling",
+    "ingredients": [
+    	{
+    		"item": "create:scorchia"
+    	}
+    ],
+	"results": [
+		{
+			"item": "minecraft:cobbled_deepslate",
+			"chance": 0.15
+		},
+		{
+			"item": "minecraft:smooth_basalt",
+			"chance": 0.5
+		},
+		{
+			"item": "minecraft:basalt",
+			"chance": 0.15
+		}
+	],
+	"processingTime": 50
+}

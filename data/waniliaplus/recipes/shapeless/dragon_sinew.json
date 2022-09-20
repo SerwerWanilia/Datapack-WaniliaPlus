@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "quark:dragon_scale"
+    }
+  ],
+  "result": {
+    "item": "tetra:dragon_sinew"
+  }
+}

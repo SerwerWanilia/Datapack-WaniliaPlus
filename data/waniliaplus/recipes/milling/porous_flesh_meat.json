@@ -1,0 +1,56 @@
+{
+	"type": "create:milling",
+    "ingredients": [
+    	{
+			"item": "biomesoplenty:porous_flesh"
+    	}
+    ],
+	"results": [
+		{
+			"item": "minecraft:rotten_flesh",
+			"count": 1,
+			"chance": 0.1
+		},
+		{
+			"item": "minecraft:porkchop",
+			"count": 1,
+			"chance": 0.01
+		},
+		{
+			"item": "minecraft:beef",
+			"count": 1,
+			"chance": 0.01
+		},
+		{
+			"item": "minecraft:mutton",
+			"count": 1,
+			"chance": 0.01
+		},
+		{
+			"item": "minecraft:rabbit",
+			"count": 1,
+			"chance": 0.01
+		},
+		{
+			"item": "minecraft:chicken",
+			"count": 1,
+			"chance": 0.01
+		},
+		{
+			"item": "alexsmobs:moose_ribs",
+			"count": 1,
+			"chance": 0.01
+		},
+		{
+			"item": "alexsmobs:kangaroo_meat",
+			"count": 1,
+			"chance": 0.01
+		},
+		{
+			"item": "additionaladditions:chicken_nugget",
+			"count": 1,
+			"chance": 0.0001
+		}
+	],
+	"processingTime": 50
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "culturaldelights:eggplant"
+    }
+  ],
+  "results": [
+    {
+      "item": "culturaldelights:cut_eggplant",
+      "count": 2
+    }
+  ],
+  "processingTime": 30
+}

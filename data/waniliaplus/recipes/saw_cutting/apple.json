@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:apple"
+    }
+  ],
+  "results": [
+    {
+      "item": "cnb:apple_slice",
+      "count": 4
+    }
+  ],
+  "processingTime": 30
+}

@@ -1,0 +1,18 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:cooked_chicken"
+    }
+  ],
+  "results": [
+    {
+      "item": "farmersdelight:cooked_chicken_cuts",
+      "count": 2
+    },
+	{
+      "item": "minecraft:bone_meal"
+    }
+  ],
+  "processingTime": 30
+}
