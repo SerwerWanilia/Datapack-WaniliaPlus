@@ -1,101 +1,389 @@
 {
-    "replace": false,
-    "values": [
-        "morestoragedrawers:botania_livingwood_full_1",
-        "morestoragedrawers:botania_livingwood_full_2",
-        "morestoragedrawers:botania_livingwood_full_4",
-        "morestoragedrawers:botania_livingwood_half_1",
-        "morestoragedrawers:botania_livingwood_half_2",
-        "morestoragedrawers:botania_livingwood_half_4",
-        "morestoragedrawers:botania_dreamwood_full_1",
-        "morestoragedrawers:botania_dreamwood_full_2",
-        "morestoragedrawers:botania_dreamwood_full_4",
-        "morestoragedrawers:botania_dreamwood_half_1",
-        "morestoragedrawers:botania_dreamwood_half_2",
-        "morestoragedrawers:botania_dreamwood_half_4",
-        "morestoragedrawers:botania_mossy_dreamwood_full_1",
-        "morestoragedrawers:botania_mossy_dreamwood_full_2",
-        "morestoragedrawers:botania_mossy_dreamwood_full_4",
-        "morestoragedrawers:botania_mossy_dreamwood_half_1",
-        "morestoragedrawers:botania_mossy_dreamwood_half_2",
-        "morestoragedrawers:botania_mossy_dreamwood_half_4",
-        "morestoragedrawers:botania_shimmerwood_full_1",
-        "morestoragedrawers:botania_shimmerwood_full_2",
-        "morestoragedrawers:botania_shimmerwood_full_4",
-        "morestoragedrawers:botania_shimmerwood_half_1",
-        "morestoragedrawers:botania_shimmerwood_half_2",
-        "morestoragedrawers:botania_shimmerwood_half_4",
-        "morestoragedrawers:biomesoplenty_fir_full_1",
-        "morestoragedrawers:biomesoplenty_fir_full_2",
-        "morestoragedrawers:biomesoplenty_fir_full_4",
-        "morestoragedrawers:biomesoplenty_fir_half_1",
-        "morestoragedrawers:biomesoplenty_fir_half_2",
-        "morestoragedrawers:biomesoplenty_fir_half_4",
-        "morestoragedrawers:botania_mossy_livingwood_full_1",
-        "morestoragedrawers:botania_mossy_livingwood_full_2",
-        "morestoragedrawers:botania_mossy_livingwood_full_4",
-        "morestoragedrawers:botania_mossy_livingwood_half_1",
-        "morestoragedrawers:botania_mossy_livingwood_half_2",
-        "morestoragedrawers:botania_mossy_livingwood_half_4",
-        "morestoragedrawers:biomesoplenty_redwood_full_1",
-        "morestoragedrawers:biomesoplenty_redwood_full_2",
-        "morestoragedrawers:biomesoplenty_redwood_full_4",
-        "morestoragedrawers:biomesoplenty_redwood_half_1",
-        "morestoragedrawers:biomesoplenty_redwood_half_2",
-        "morestoragedrawers:biomesoplenty_redwood_half_4",
-        "morestoragedrawers:biomesoplenty_cherry_full_1",
-        "morestoragedrawers:biomesoplenty_cherry_full_2",
-        "morestoragedrawers:biomesoplenty_cherry_full_4",
-        "morestoragedrawers:biomesoplenty_cherry_half_1",
-        "morestoragedrawers:biomesoplenty_cherry_half_2",
-        "morestoragedrawers:biomesoplenty_cherry_half_4",
-        "morestoragedrawers:biomesoplenty_mahogany_full_1",
-        "morestoragedrawers:biomesoplenty_mahogany_full_2",
-        "morestoragedrawers:biomesoplenty_mahogany_full_4",
-        "morestoragedrawers:biomesoplenty_mahogany_half_1",
-        "morestoragedrawers:biomesoplenty_mahogany_half_2",
-        "morestoragedrawers:biomesoplenty_mahogany_half_4",
-        "morestoragedrawers:biomesoplenty_jacaranda_full_1",
-        "morestoragedrawers:biomesoplenty_jacaranda_full_2",
-        "morestoragedrawers:biomesoplenty_jacaranda_full_4",
-        "morestoragedrawers:biomesoplenty_jacaranda_half_1",
-        "morestoragedrawers:biomesoplenty_jacaranda_half_2",
-        "morestoragedrawers:biomesoplenty_jacaranda_half_4",
-        "morestoragedrawers:biomesoplenty_palm_full_1",
-        "morestoragedrawers:biomesoplenty_palm_full_2",
-        "morestoragedrawers:biomesoplenty_palm_full_4",
-        "morestoragedrawers:biomesoplenty_palm_half_1",
-        "morestoragedrawers:biomesoplenty_palm_half_2",
-        "morestoragedrawers:biomesoplenty_palm_half_4",
-        "morestoragedrawers:biomesoplenty_willow_full_1",
-        "morestoragedrawers:biomesoplenty_willow_full_2",
-        "morestoragedrawers:biomesoplenty_willow_full_4",
-        "morestoragedrawers:biomesoplenty_willow_half_1",
-        "morestoragedrawers:biomesoplenty_willow_half_2",
-        "morestoragedrawers:biomesoplenty_willow_half_4",
-        "morestoragedrawers:biomesoplenty_dead_full_1",
-        "morestoragedrawers:biomesoplenty_dead_full_2",
-        "morestoragedrawers:biomesoplenty_dead_full_4",
-        "morestoragedrawers:biomesoplenty_dead_half_1",
-        "morestoragedrawers:biomesoplenty_dead_half_2",
-        "morestoragedrawers:biomesoplenty_dead_half_4",
-        "morestoragedrawers:biomesoplenty_magic_full_1",
-        "morestoragedrawers:biomesoplenty_magic_full_2",
-        "morestoragedrawers:biomesoplenty_magic_full_4",
-        "morestoragedrawers:biomesoplenty_magic_half_1",
-        "morestoragedrawers:biomesoplenty_magic_half_2",
-        "morestoragedrawers:biomesoplenty_magic_half_4",
-        "morestoragedrawers:biomesoplenty_umbran_full_1",
-        "morestoragedrawers:biomesoplenty_umbran_full_2",
-        "morestoragedrawers:biomesoplenty_umbran_full_4",
-        "morestoragedrawers:biomesoplenty_umbran_half_1",
-        "morestoragedrawers:biomesoplenty_umbran_half_2",
-        "morestoragedrawers:biomesoplenty_umbran_half_4",
-        "morestoragedrawers:biomesoplenty_hellbark_full_1",
-        "morestoragedrawers:biomesoplenty_hellbark_full_2",
-        "morestoragedrawers:biomesoplenty_hellbark_full_4",
-        "morestoragedrawers:biomesoplenty_hellbark_half_1",
-        "morestoragedrawers:biomesoplenty_hellbark_half_2",
-        "morestoragedrawers:biomesoplenty_hellbark_half_4"
-    ]
+	"replace": false,
+	"values": [
+		{
+			"id": "morestoragedrawers:botania_livingwood_full_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_jacaranda_half_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_willow_full_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_fir_half_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_fir_half_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_mahogany_full_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_livingwood_half_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_palm_full_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_cherry_half_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_shimmerwood_half_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_redwood_half_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_umbran_full_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_mossy_livingwood_full_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_dreamwood_full_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_willow_half_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_willow_full_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_hellbark_full_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_palm_full_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_livingwood_half_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_redwood_full_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_fir_half_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_jacaranda_full_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_dreamwood_full_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_redwood_full_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_palm_half_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_magic_half_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_hellbark_full_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_fir_full_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_mossy_dreamwood_full_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_mossy_livingwood_half_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_magic_full_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_cherry_full_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_palm_full_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_fir_full_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_dead_full_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_mahogany_half_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_livingwood_full_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_magic_half_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_hellbark_full_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_shimmerwood_half_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_cherry_full_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_palm_half_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_livingwood_half_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_willow_half_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_dreamwood_half_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_redwood_full_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_jacaranda_half_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_mossy_livingwood_half_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_mahogany_half_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_jacaranda_full_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_magic_half_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_mossy_dreamwood_full_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_mossy_dreamwood_half_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_palm_half_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_shimmerwood_full_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_hellbark_half_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_fir_full_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_mossy_dreamwood_half_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_hellbark_half_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_shimmerwood_full_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_dreamwood_half_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_dead_half_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_dead_full_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_mossy_livingwood_half_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_mossy_dreamwood_half_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_shimmerwood_full_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_cherry_half_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_dreamwood_half_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_umbran_half_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_magic_full_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_mossy_livingwood_full_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_dead_full_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_mahogany_half_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_umbran_half_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_dead_half_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_redwood_half_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_livingwood_full_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_hellbark_half_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_mahogany_full_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_jacaranda_full_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_cherry_half_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_willow_full_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_willow_half_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_mossy_dreamwood_full_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_shimmerwood_half_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_jacaranda_half_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_redwood_half_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_mahogany_full_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_magic_full_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_mossy_livingwood_full_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_cherry_full_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_umbran_full_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_umbran_full_4",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_dead_half_2",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:botania_dreamwood_full_1",
+			"required": false
+		},
+		{
+			"id": "morestoragedrawers:biomesoplenty_umbran_half_2",
+			"required": false
+		}
+	]
 }
